@@ -1,0 +1,52 @@
+
+ROM used:   215/8192 (3%)
+            215/8192 (3%) including unused fragments
+
+            0.2 Average locations per line
+            5.8 Average locations per statement
+
+RAM used:   18/368 (5%) at main() level
+            19/368 (5%) worst case
+
+Stack used: 1 worst case (0 in main + 1 for interrupts)
+Stack size: 8
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   79    37 100  Servomotor.c
+  786     0   0  ..\..\..\..\..\Program Files\PICC\Devices\16F887.h
+----- -----
+  865    37 Total
+
+Page ROM  %  RAM    Vol Diff  Functions:
+---- --- --- ---    --- ----  ----------
+0     20   9    1             @delay_ms1
+0     15   7    1             @delay_us1
+0     17   8    0     78  1.6  SisInit
+0     13   6    0     50  1.5  TIMER0_isr
+0    103  48    1    706  4.8  MAIN
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               3
+    Statements              37
+    Comments                159
+    Volume (V)              997
+    Difficulty (D)          7.9
+    Effort to implement (E) 7838
+    Time to implement (T)   7 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   6
+    Maintainability (MI)    52
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-0002E    43  0  
+0002F-007FF   168  1833  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+

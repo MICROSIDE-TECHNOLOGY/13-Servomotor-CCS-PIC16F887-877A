@@ -1,0 +1,10 @@
+ÀÄServomotor
+   ÃÄMAIN  0/103  Ram=1
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄSisInit  0/17  Ram=0
+   ³  ÃÄ@delay_us1  0/15  Ram=1
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@delay_us1  0/15  Ram=1
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÀÄ@delay_us1  0/15  Ram=1
+   ÀÄTIMER0_isr  0/13  Ram=0

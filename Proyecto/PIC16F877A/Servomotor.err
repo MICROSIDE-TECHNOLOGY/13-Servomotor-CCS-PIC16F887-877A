@@ -1,0 +1,6 @@
+Compiling E:\Martin Hdez\Desktop\CCS 16F\877A\Práctica 13\Servomotor on 24-feb.-22 at 15:13
+>>> Warning 203 "Servomotor.c" Line 41(1,1): Condition always TRUE
+>>> Warning 202 "Servomotor.c" Line 15(7,11): Variable never used:   duty
+      Memory usage:   ROM=3%      RAM=5% - 5%
+      0 Errors,  2 Warnings.
+Build Successful.
