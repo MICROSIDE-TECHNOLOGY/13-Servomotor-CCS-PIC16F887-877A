@@ -1,7 +1,7 @@
 [PROJECT]
 Target=Servomotor.hex
 Processor_Text=PIC16F887
-CCSVersion=5.076
+CCSVersion=5.115d
 Compiler=PCM
 [Target Data]
 FileList=Servomotor.c
@@ -9,15 +9,37 @@ FileList=Servomotor.c
 Type=4
 [mru-list]
 1=Servomotor.c
-[Units]
-Count=1
-1=Servomotor (main)
 
 [defines]
-buildcount=1
+buildcount=3
 
 [ProjectLog]
-Days=1
+Days=3
 D1=24-02-2022
 D1_L=1
 D1_L1=[54809]Project Closed.
+D2=30-08-2023
+D2_L=2
+D2_L1=[37646]Project Opened.
+D2_L2=[37690]Project Closed.
+D3=01-09-2023
+D3_L=4
+D3_L1=[52320]Project Opened.
+D3_L2=[52328]Started Editing.
+D3_L3=[52541]Stopped Editing.
+TotalEdit=4
+TotalDebug=0
+D3_E=4
+D3_D=0
+D3_L4=[52541]Project Closed.
+
+[fileformats]
+forcecoff=0
+
+[Opened Files]
+1=Servomotor.c
+t1=1
+Count=1
+[Units]
+Count=1
+1=Servomotor (main)
